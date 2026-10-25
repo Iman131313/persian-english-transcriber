@@ -1,0 +1,5 @@
+   audio/
+   out/
+   *.db
+   *.wav
+   __pycache__/
