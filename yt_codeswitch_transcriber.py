@@ -330,4 +330,4 @@ def main(argv: list[str] | None = None) -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main(["https://www.youtube.com/watch?v=ue57gElJNUM&t=3981s", "--model", "small", "--export-csv", "out"]))
+    sys.exit(main())
